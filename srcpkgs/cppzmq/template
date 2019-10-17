@@ -16,4 +16,3 @@ checksum=117fc1ca24d98dbe1a60c072cde13be863d429134907797f8e03f654ce679385
 post_install() {
 	vlicense LICENSE
 }
-
